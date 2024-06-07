@@ -2,7 +2,7 @@
 
 Team members :
 
- •	Nithursika Kalanantharasan
- •	Thevarasa Sangaran
  •	Pairavi Thanancheyan
+ •	Thevarasa Sangaran
+ •	Nithursika Kalanantharasan
  
